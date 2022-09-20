@@ -8,6 +8,7 @@ import Portifolio from "./Components/portifolio/Portifolio";
 import Testimonials from "./Components/testimonials./Testimonials";
 import Contact from "./Components/contact/Contact";
 import Footer from "./Components/footer/Footer";
+import "./src/index.css";
 
 const App = () => {
   return (
